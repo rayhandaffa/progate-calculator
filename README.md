@@ -10,3 +10,8 @@ Kelas Kecil - Mentor            | Nama
 Pembuatan Aplikasi Web Kalkulator 
 
 ## Output 
+Berdasarkan hasil codingan di atas dapat dilihat di bawah ini : <br> 
+
+gif <br>
+
+[Visualisasi Aplikasi Web Kalkulator](https://rayhandaffa.github.io/progate-calculator/aplikasi-web-kalkulator/)

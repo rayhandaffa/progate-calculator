@@ -12,6 +12,6 @@ Pembuatan Aplikasi Web Kalkulator
 ## Output 
 Berdasarkan hasil codingan di atas dapat dilihat di bawah ini : <br> 
 
-gif <br>
+![asset](https://github.com/rayhandaffa/progate-calculator/blob/main/asset/ouput-visulaiasi.gif)
 
 [Visualisasi Aplikasi Web Kalkulator](https://rayhandaffa.github.io/progate-calculator/aplikasi-web-kalkulator/)
